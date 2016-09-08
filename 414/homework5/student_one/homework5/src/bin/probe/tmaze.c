@@ -1,0 +1,4 @@
+main()
+{
+	create_maze();
+}

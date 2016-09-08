@@ -1,0 +1,729 @@
+Apr 10 14:53:15:INFO:my_fortune:main() Fortune Generator: BEGIN
+Apr 10 14:53:15:INFO:my_fortune:main() Host name is: 'dev3'
+Apr 10 14:53:15:INFO:my_fortune:setnonblock() Setting up non-blocking I/O
+Apr 10 14:53:15:INFO:my_fortune:setnonblock() Finished setting up non-blocking I/O. origflags -> '8194'
+Apr 10 14:53:15:INFO:my_fortune:registersighandle() Registering SIGINT BEGIN
+Apr 10 14:53:15:INFO:my_fortune:registersighandle() SIGINT registered.
+Apr 10 14:53:15:INFO:my_fortune:registersighandle() Registering SIGINT END
+Apr 10 14:53:15:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 14:53:15:WARNING:my_fortune:querystdin() read would have blocked
+
+Apr 10 14:53:15:INFO:Printing fortune:
+
+Apr 10 14:53:15:INFO:TODAY IS A GOOD DAY TO BRIBE A HIGH-RANKING PUBLIC OFFICIAL.
+
+Apr 10 14:53:15:INFO:*****************************************************
+
+Apr 10 14:53:15:INFO:my_fortune:asleep() Sleeping for '9' seconds
+Apr 10 14:53:24:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 14:53:24:WARNING:my_fortune:querystdin() read would have blocked
+
+Apr 10 14:53:24:INFO:Printing fortune:
+
+Apr 10 14:53:24:INFO:MIKE:	"THE FOURTH DIMENSION IS A SHAMBLES?"
+
+Apr 10 14:53:24:INFO:BERNIE:	"NOBODY EVER EMPTIES THE ASHTRAYS.  PEOPLE ARE SO
+
+Apr 10 14:53:24:INFO:	INCONSIDERATE."
+
+Apr 10 14:53:24:INFO:		-- GARY TRUDEAU, "DOONESBURY"
+
+Apr 10 14:53:24:INFO:*****************************************************
+
+Apr 10 14:53:24:INFO:my_fortune:asleep() Sleeping for '14' seconds
+Apr 10 14:53:38:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 14:53:38:WARNING:my_fortune:querystdin() read would have blocked
+
+Apr 10 14:53:38:INFO:Printing fortune:
+
+Apr 10 14:53:38:INFO:SYSTEMS HAVE SUB-SYSTEMS AND SUB-SYSTEMS HAVE SUB-SYSTEMS AND SO ON AD
+
+Apr 10 14:53:38:INFO:INFINITUM -- WHICH IS WHY WE'RE ALWAYS STARTING OVER.
+
+Apr 10 14:53:38:INFO:		-- EPIGRAMS IN PROGRAMMING, ACM SIGPLAN SEPT. 1982
+
+Apr 10 14:53:38:INFO:*****************************************************
+
+Apr 10 14:53:38:INFO:my_fortune:asleep() Sleeping for '4' seconds
+Apr 10 14:53:42:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 14:53:42:INFO:my_fortune:querystdin() Found the following on STDIN 'b'
+Apr 10 14:53:42:INFO:my_fortune:querystdin() Querying STDIN END
+Apr 10 14:53:42:INFO:Printing fortune:
+
+Apr 10 14:53:43:INFO:IF I DON'T DRIVE AROUND THE PARK,
+
+Apr 10 14:53:43:INFO:I'M PRETTY SURE TO MAKE MY MARK.
+
+Apr 10 14:53:43:INFO:IF I'M IN BED EACH NIGHT BY TEN,
+
+Apr 10 14:53:43:INFO:I MAY GET BACK MY LOOKS AGAIN.
+
+Apr 10 14:53:43:INFO:IF I ABSTAIN FROM FUN AND SUCH,
+
+Apr 10 14:53:43:INFO:I'LL PROBABLY AMOUNT TO MUCH;
+
+Apr 10 14:53:43:INFO:BUT I SHALL STAY THE WAY I AM,
+
+Apr 10 14:53:43:INFO:BECAUSE I DO NOT GIVE A DAMN.
+
+Apr 10 14:53:43:INFO:		-- DOROTHY PARKER
+
+Apr 10 14:53:43:INFO:*****************************************************
+
+Apr 10 14:53:43:INFO:my_fortune:asleep() Sleeping for '11' seconds
+Apr 10 14:53:54:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 14:53:54:INFO:my_fortune:querystdin() Found the following on STDIN 'i'
+Apr 10 14:53:54:INFO:my_fortune:querystdin() Querying STDIN END
+Apr 10 14:53:54:INFO:Printing fortune:
+
+Apr 10 14:53:54:INFO:WILLIAMS AND HOLLAND'S LAW:
+
+Apr 10 14:53:54:INFO:	IF ENOUGH DATA IS COLLECTED, ANYTHING MAY BE PROVEN BY
+
+Apr 10 14:53:54:INFO:STATISTICAL METHODS.
+
+Apr 10 14:53:54:INFO:*****************************************************
+
+Apr 10 14:53:54:INFO:my_fortune:asleep() Sleeping for '2' seconds
+Apr 10 14:53:56:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 14:53:56:INFO:my_fortune:querystdin() Found the following on STDIN 's'
+Apr 10 14:53:56:INFO:my_fortune:querystdin() Querying STDIN END
+Apr 10 14:53:56:INFO:Printing fortune:
+
+Apr 10 14:53:56:INFO:"NOT ONLY IS THIS INCOMPREHENSIBLE, BUT THE INK IS UGLY AND THE PAPER
+
+Apr 10 14:53:56:INFO:IS FROM THE WRONG KIND OF TREE."
+
+Apr 10 14:53:56:INFO:		-- PROFESSOR W.
+
+Apr 10 14:53:56:INFO:*****************************************************
+
+Apr 10 14:53:56:INFO:my_fortune:asleep() Sleeping for '3' seconds
+Apr 10 14:53:59:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 14:53:59:INFO:my_fortune:querystdin() Found the following on STDIN 'q'
+Apr 10 14:53:59:INFO:my_fortune:querystdin() Querying STDIN END
+Apr 10 14:53:59:INFO:my_fortune:main() Fortune Generator: END
+Apr 10 15:35:14:INFO:my_fortune:main() Fortune Generator: BEGIN
+Apr 10 15:35:14:INFO:my_fortune:main() Host name is: 'dev3'
+Apr 10 15:35:14:INFO:my_fortune:setnonblock() Setting up non-blocking I/O
+Apr 10 15:35:14:INFO:my_fortune:setnonblock() Finished setting up non-blocking I/O. origflags -> '8194'
+Apr 10 15:35:14:INFO:my_fortune:registersighandle() Registering SIGINT BEGIN
+Apr 10 15:35:14:INFO:my_fortune:registersighandle() SIGINT registered.
+Apr 10 15:35:14:INFO:my_fortune:registersighandle() Registering SIGINT END
+Apr 10 15:35:14:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 15:35:14:WARNING:my_fortune:querystdin() read would have blocked
+
+Apr 10 15:35:14:INFO:my_fortune:main() Fortune Generator: END
+Apr 10 17:12:29:INFO:my_fortune:main() Fortune Generator: BEGIN
+Apr 10 17:12:29:INFO:my_fortune:main() Host name is: 'dev3'
+Apr 10 17:12:29:INFO:my_fortune:setnonblock() Setting up non-blocking I/O
+Apr 10 17:12:29:INFO:my_fortune:setnonblock() Finished setting up non-blocking I/O. origflags -> '8194'
+Apr 10 17:12:29:INFO:my_fortune:registersighandle() Registering SIGINT BEGIN
+Apr 10 17:12:29:INFO:my_fortune:registersighandle() SIGINT registered.
+Apr 10 17:12:29:INFO:my_fortune:registersighandle() Registering SIGINT END
+Apr 10 17:12:29:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 17:12:29:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 17:12:29:INFO:Printing fortune:
+
+Apr 10 17:12:29:INFO:	A PRIEST WAS WALKING ALONG THE CLIFFS AT DOVER WHEN HE CAME
+
+Apr 10 17:12:29:INFO:UPON TWO LOCALS PULLING ANOTHER MAN ASHORE ON THE END OF A ROPE.
+
+Apr 10 17:12:29:INFO:"THAT'S WHAT I LIKE TO SEE", SAID THE PRIEST, "A MAN HELPING HIS FELLOW
+
+Apr 10 17:12:29:INFO:MAN".
+
+Apr 10 17:12:29:INFO:	AS HE WAS WALKING AWAY, ONE LOCAL REMARKED TO THE OTHER, "WELL,
+
+Apr 10 17:12:29:INFO:HE SURE DOESN'T KNOW THE FIRST THING ABOUT SHARK FISHING."
+
+Apr 10 17:12:29:INFO:*****************************************************
+
+Apr 10 17:12:29:INFO:my_fortune:asleep() Sleeping for '9' seconds
+Apr 10 17:12:38:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 17:12:38:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 17:12:38:INFO:Printing fortune:
+
+Apr 10 17:12:38:INFO:THE TROUBLE WITH SUPERHEROS IS WHAT TO DO BETWEEN PHONE BOOTHS.
+
+Apr 10 17:12:38:INFO:		-- KEN KESEY
+
+Apr 10 17:12:38:INFO:*****************************************************
+
+Apr 10 17:12:38:INFO:my_fortune:asleep() Sleeping for '14' seconds
+Apr 10 17:12:52:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 17:12:52:INFO:my_fortune:querystdin() Found the following on STDIN 'b'
+Apr 10 17:12:52:INFO:my_fortune:querystdin() Found the following on STDIN 'i'
+Apr 10 17:12:52:INFO:my_fortune:querystdin() Found the following on STDIN 's'
+Apr 10 17:12:52:INFO:my_fortune:querystdin() Found the following on STDIN 'q'
+Apr 10 17:12:52:INFO:my_fortune:querystdin() Found quit character: 'q'
+Apr 10 17:12:52:INFO:my_fortune:querystdin() Querying STDIN END
+Apr 10 17:12:52:INFO:my_fortune:main() Fortune Generator: END
+Apr 10 17:13:40:INFO:my_fortune:main() Fortune Generator: BEGIN
+Apr 10 17:13:40:INFO:my_fortune:main() Host name is: 'dev3'
+Apr 10 17:13:40:INFO:my_fortune:setnonblock() Setting up non-blocking I/O
+Apr 10 17:13:40:INFO:my_fortune:setnonblock() Finished setting up non-blocking I/O. origflags -> '8194'
+Apr 10 17:13:40:INFO:my_fortune:registersighandle() Registering SIGINT BEGIN
+Apr 10 17:13:40:INFO:my_fortune:registersighandle() SIGINT registered.
+Apr 10 17:13:40:INFO:my_fortune:registersighandle() Registering SIGINT END
+Apr 10 17:13:40:INFO:Printing fortune:
+
+Apr 10 17:13:40:INFO:THOSE WHO CAN, DO.  THOSE WHO CAN'T, SIMULATE.
+
+Apr 10 17:13:40:INFO:*****************************************************
+
+Apr 10 17:13:40:INFO:my_fortune:asleep() Sleeping for '9' seconds
+Apr 10 17:13:49:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 17:13:49:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 17:13:49:INFO:Printing fortune:
+
+Apr 10 17:13:49:INFO:MARRIAGE IS THE ONLY ADVENTURE OPEN TO THE COWARDLY.
+
+Apr 10 17:13:49:INFO:		-- VOLTAIRE
+
+Apr 10 17:13:49:INFO:*****************************************************
+
+Apr 10 17:13:49:INFO:my_fortune:asleep() Sleeping for '14' seconds
+Apr 10 17:14:03:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 17:14:03:INFO:my_fortune:querystdin() Found the following on STDIN 'b'
+Apr 10 17:14:03:INFO:my_fortune:querystdin() Found the following on STDIN 'i'
+Apr 10 17:14:03:INFO:my_fortune:querystdin() Found the following on STDIN 's'
+Apr 10 17:14:03:INFO:my_fortune:querystdin() Found the following on STDIN 'q'
+Apr 10 17:14:03:INFO:my_fortune:querystdin() Found quit character: 'q'
+Apr 10 17:14:03:INFO:my_fortune:querystdin() Querying STDIN END
+Apr 10 17:14:03:INFO:my_fortune:main() Fortune Generator: END
+Apr 10 18:03:35:INFO:my_fortune:main() Fortune Generator: BEGIN
+Apr 10 18:03:35:INFO:my_fortune:main() Host name is: 'dev3'
+Apr 10 18:03:35:INFO:my_fortune:setnonblock() Setting up non-blocking I/O
+Apr 10 18:03:35:INFO:my_fortune:setnonblock() Finished setting up non-blocking I/O. origflags -> '8194'
+Apr 10 18:03:35:INFO:my_fortune:registersighandle() Registering SIGINT BEGIN
+Apr 10 18:03:35:INFO:my_fortune:registersighandle() SIGINT registered.
+Apr 10 18:03:35:INFO:my_fortune:registersighandle() Registering SIGINT END
+Apr 10 18:03:35:INFO:Printing fortune:
+
+Apr 10 18:03:35:INFO:"WELL, IF YOU CAN'T BELIEVE WHAT YOU READ IN A COMIC BOOK, WHAT *___CAN*
+
+Apr 10 18:03:35:INFO:YOU BELIEVE?!"
+
+Apr 10 18:03:35:INFO:		-- BULLWINKLE J. MOOSE [JAY WARD]
+
+Apr 10 18:03:35:INFO:*****************************************************
+
+Apr 10 18:03:35:INFO:my_fortune:asleep() Sleeping for '9' seconds
+Apr 10 18:03:44:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:03:44:INFO:my_fortune:querystdin() Found the following on STDIN 'b'
+Apr 10 18:03:44:INFO:my_fortune:querystdin() Found the following on STDIN 'i'
+Apr 10 18:03:44:INFO:my_fortune:querystdin() Found the following on STDIN 's'
+Apr 10 18:03:44:INFO:my_fortune:querystdin() Found the following on STDIN 'q'
+Apr 10 18:03:44:INFO:my_fortune:querystdin() Found quit character: 'q'
+Apr 10 18:03:44:INFO:my_fortune:resetflags() BEGIN
+Apr 10 18:03:44:INFO:my_fortune:resetflags() Reset IO flags to 8194
+Apr 10 18:03:44:INFO:my_fortune:resetflags() END
+Apr 10 18:03:44:INFO:my_fortune:querystdin() Querying STDIN END
+Apr 10 18:03:44:INFO:my_fortune:main() Fortune Generator: END
+Apr 10 18:03:55:INFO:my_fortune:main() Fortune Generator: BEGIN
+Apr 10 18:03:55:INFO:my_fortune:main() Host name is: 'dev3'
+Apr 10 18:03:55:INFO:my_fortune:setnonblock() Setting up non-blocking I/O
+Apr 10 18:03:55:INFO:my_fortune:setnonblock() Finished setting up non-blocking I/O. origflags -> '8194'
+Apr 10 18:03:55:INFO:my_fortune:registersighandle() Registering SIGINT BEGIN
+Apr 10 18:03:55:INFO:my_fortune:registersighandle() SIGINT registered.
+Apr 10 18:03:55:INFO:my_fortune:registersighandle() Registering SIGINT END
+Apr 10 18:03:55:INFO:Printing fortune:
+
+Apr 10 18:03:55:INFO:BINARY, ADJ.:
+
+Apr 10 18:03:55:INFO:	POSSESSING THE ABILITY TO HAVE FRIENDS OF BOTH SEXES.
+
+Apr 10 18:03:55:INFO:*****************************************************
+
+Apr 10 18:03:55:INFO:my_fortune:asleep() Sleeping for '9' seconds
+Apr 10 18:04:04:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:04:04:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:04:04:INFO:Printing fortune:
+
+Apr 10 18:04:04:INFO:THE PROBLEM WITH PEOPLE WHO HAVE NO VICES IS THAT GENERALLY YOU CAN BE
+
+Apr 10 18:04:04:INFO:PRETTY SURE THEY'RE GOING TO HAVE SOME PRETTY ANNOYING VIRTUES.
+
+Apr 10 18:04:04:INFO:		-- ELIZABETH TAYLOR
+
+Apr 10 18:04:04:INFO:*****************************************************
+
+Apr 10 18:04:04:INFO:my_fortune:asleep() Sleeping for '14' seconds
+Apr 10 18:04:18:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:04:18:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:04:18:INFO:Printing fortune:
+
+Apr 10 18:04:18:INFO:I'M DEFENDING HER HONOR, WHICH IS MORE THAN SHE EVER DID.
+
+Apr 10 18:04:18:INFO:*****************************************************
+
+Apr 10 18:04:18:INFO:my_fortune:asleep() Sleeping for '4' seconds
+Apr 10 18:04:22:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:04:22:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:04:22:INFO:Printing fortune:
+
+Apr 10 18:04:22:INFO:"... THE MAYO CLINIC, NAMED AFTER ITS FOUNDER, DR. TED CLINIC ..."
+
+Apr 10 18:04:22:INFO:		-- DAVE BARRY
+
+Apr 10 18:04:22:INFO:*****************************************************
+
+Apr 10 18:04:22:INFO:my_fortune:asleep() Sleeping for '11' seconds
+Apr 10 18:04:33:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:04:33:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:04:33:INFO:Printing fortune:
+
+Apr 10 18:04:33:INFO:HONK IF YOU LOVE PEACE AND QUIET.
+
+Apr 10 18:04:33:INFO:*****************************************************
+
+Apr 10 18:04:33:INFO:my_fortune:asleep() Sleeping for '2' seconds
+Apr 10 18:04:35:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:04:35:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:04:35:INFO:Printing fortune:
+
+Apr 10 18:04:35:INFO:THIS FORTUNE IS INOPERATIVE.  PLEASE TRY ANOTHER.
+
+Apr 10 18:04:35:INFO:*****************************************************
+
+Apr 10 18:04:35:INFO:my_fortune:asleep() Sleeping for '3' seconds
+Apr 10 18:04:38:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:04:38:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:04:38:INFO:Printing fortune:
+
+Apr 10 18:04:38:INFO:I REALIZE THAT THE MX MISSILE IS NONE OF OUR CONCERN.  I REALIZE THAT
+
+Apr 10 18:04:38:INFO:THE WHOLE POINT OF LIVING IN A DEMOCRACY IS THAT WE PAY PROFESSIONAL
+
+Apr 10 18:04:38:INFO:CONGRESSPERSONS TO CONCERN THEMSELVES WITH THINGS LIKE THE MX MISSILE
+
+Apr 10 18:04:38:INFO:SO WE CAN BE FREE TO CONCERN OURSELVES WITH GETTING HOLD OF THE
+
+Apr 10 18:04:38:INFO:PLUMBER.
+
+Apr 10 18:04:38:INFO:
+
+Apr 10 18:04:38:INFO:BUT FROM TIME TO TIME, I FEEL I MUST ADDRESS MAJOR PUBLIC ISSUES SUCH
+
+Apr 10 18:04:38:INFO:AS THIS, BECAUSE IN A FREE AND OPEN SOCIETY, WHERE THE VERY FUTURE OF
+
+Apr 10 18:04:38:INFO:THE WORLD HINGES ON DECISIONS MADE BY OUR ELECTED LEADERS, YOU NEVER
+
+Apr 10 18:04:38:INFO:WIN LARGE CASH JOURNALISM AWARDS IF YOU STICK TO THE TOPICS I USUALLY
+
+Apr 10 18:04:38:INFO:WRITE ABOUT, SUCH AS NOSE-PICKING.
+
+Apr 10 18:04:38:INFO:		-- DAVE BARRY, "AT LAST, THE ULTIMATE DETERRENT AGAINST
+
+Apr 10 18:04:38:INFO:		   POLITICAL FALLOUT"
+
+Apr 10 18:04:38:INFO:*****************************************************
+
+Apr 10 18:04:38:INFO:my_fortune:asleep() Sleeping for '1' seconds
+Apr 10 18:04:39:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:04:39:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:04:39:INFO:Printing fortune:
+
+Apr 10 18:04:39:INFO:BLOOD FLOWS DOWN ONE LEG AND UP THE OTHER.
+
+Apr 10 18:04:39:INFO:*****************************************************
+
+Apr 10 18:04:39:INFO:my_fortune:asleep() Sleeping for '10' seconds
+Apr 10 18:04:49:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:04:49:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:04:49:INFO:Printing fortune:
+
+Apr 10 18:04:49:INFO:THE ONLY THING TO DO WITH GOOD ADVICE IS PASS IT ON.  IT IS NEVER ANY
+
+Apr 10 18:04:49:INFO:USE TO ONESELF.
+
+Apr 10 18:04:49:INFO:		-- OSCAR WILDE
+
+Apr 10 18:04:49:INFO:*****************************************************
+
+Apr 10 18:04:49:INFO:my_fortune:asleep() Sleeping for '13' seconds
+Apr 10 18:05:02:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:05:02:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:05:02:INFO:Printing fortune:
+
+Apr 10 18:05:02:INFO:YOU THINK OEDIPUS HAD A PROBLEM -- ADAM WAS EVE'S MOTHER.
+
+Apr 10 18:05:02:INFO:*****************************************************
+
+Apr 10 18:05:02:INFO:my_fortune:asleep() Sleeping for '7' seconds
+Apr 10 18:05:09:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:05:09:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:05:09:INFO:Printing fortune:
+
+Apr 10 18:05:09:INFO:A GREAT NATION IS ANY MOB OF PEOPLE WHICH PRODUCES AT LEAST ONE HONEST
+
+Apr 10 18:05:09:INFO:MAN A CENTURY.
+
+Apr 10 18:05:09:INFO:*****************************************************
+
+Apr 10 18:05:09:INFO:my_fortune:asleep() Sleeping for '5' seconds
+Apr 10 18:05:14:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:05:14:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:05:14:INFO:Printing fortune:
+
+Apr 10 18:05:14:INFO:ACTOR:	"I'M A SMASH HIT.  WHY, YESTERDAY DURING THE LAST ACT, I HAD
+
+Apr 10 18:05:14:INFO:	EVERYONE GLUED IN THEIR SEATS!"
+
+Apr 10 18:05:14:INFO:OLIVER HERFORD:	"WONDERFUL!  WONDERFUL!  CLEVER OF YOU TO THINK OF
+
+Apr 10 18:05:14:INFO:	IT!"
+
+Apr 10 18:05:14:INFO:*****************************************************
+
+Apr 10 18:05:14:INFO:my_fortune:asleep() Sleeping for '3' seconds
+Apr 10 18:05:17:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:05:17:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:05:17:INFO:Printing fortune:
+
+Apr 10 18:05:17:INFO:"IN SHORT, _N IS RICHARDIAN IF, AND ONLY IF, _N IS NOT RICHARDIAN."
+
+Apr 10 18:05:17:INFO:*****************************************************
+
+Apr 10 18:05:17:INFO:my_fortune:asleep() Sleeping for '10' seconds
+Apr 10 18:05:27:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:05:27:INFO:my_fortune:querystdin() Found the following on STDIN 'b'
+Apr 10 18:05:27:INFO:my_fortune:querystdin() Found the following on STDIN 'i'
+Apr 10 18:05:27:INFO:my_fortune:querystdin() Found the following on STDIN 's'
+Apr 10 18:05:27:INFO:my_fortune:querystdin() Found the following on STDIN 'q'
+Apr 10 18:05:27:INFO:my_fortune:querystdin() Found quit character: 'q'
+Apr 10 18:05:27:INFO:my_fortune:resetflags() BEGIN
+Apr 10 18:05:27:INFO:my_fortune:resetflags() Reset IO flags to 8194
+Apr 10 18:05:27:INFO:my_fortune:resetflags() END
+Apr 10 18:05:27:INFO:my_fortune:querystdin() Querying STDIN END
+Apr 10 18:05:27:INFO:my_fortune:main() Fortune Generator: END
+Apr 10 18:12:42:INFO:my_fortune:main() Fortune Generator: BEGIN
+Apr 10 18:12:42:INFO:my_fortune:main() Host name is: 'dev3'
+Apr 10 18:12:42:INFO:my_fortune:setnonblock() Setting up non-blocking I/O
+Apr 10 18:12:42:INFO:my_fortune:setnonblock() Finished setting up non-blocking I/O. origflags -> '8194'
+Apr 10 18:12:42:INFO:my_fortune:registersighandle() Registering SIGINT BEGIN
+Apr 10 18:12:42:INFO:my_fortune:registersighandle() SIGINT registered.
+Apr 10 18:12:42:INFO:my_fortune:registersighandle() Registering SIGINT END
+Apr 10 18:12:42:INFO:Printing fortune:
+
+Apr 10 18:12:42:INFO:SLOWLY AND SURELY THE UNIX CREPT UP ON THE NINTENDO USER ...
+
+Apr 10 18:12:42:INFO:*****************************************************
+
+Apr 10 18:12:42:INFO:my_fortune:asleep() Sleeping for '9' seconds
+Apr 10 18:12:51:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:12:51:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:12:51:INFO:Printing fortune:
+
+Apr 10 18:12:51:INFO:WE ARE CONFRONTED WITH INSURMOUNTABLE OPPORTUNITIES.
+
+Apr 10 18:12:51:INFO:		-- WALT KELLY, "POGO"
+
+Apr 10 18:12:51:INFO:*****************************************************
+
+Apr 10 18:12:51:INFO:my_fortune:asleep() Sleeping for '14' seconds
+Apr 10 18:13:05:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:13:05:INFO:my_fortune:querystdin() Found the following on STDIN 'b'
+Apr 10 18:13:05:INFO:my_fortune:querystdin() Found the following on STDIN 'i'
+Apr 10 18:13:05:INFO:my_fortune:querystdin() Found the following on STDIN 's'
+Apr 10 18:13:05:INFO:my_fortune:querystdin() Found the following on STDIN 'q'
+Apr 10 18:13:05:INFO:my_fortune:querystdin() Found the following on STDIN 'u'
+Apr 10 18:13:05:INFO:my_fortune:querystdin() Found the following on STDIN 'e'
+Apr 10 18:13:05:INFO:my_fortune:querystdin() Found the following on STDIN '
+'
+Apr 10 18:13:05:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:13:05:INFO:Printing fortune:
+
+Apr 10 18:13:05:INFO:ANTHONY'S LAW OF THE WORKSHOP:
+
+Apr 10 18:13:05:INFO:	ANY TOOL WHEN DROPPED, WILL ROLL INTO THE LEAST ACCESSIBLE
+
+Apr 10 18:13:05:INFO:	CORNER OF THE WORKSHOP.
+
+Apr 10 18:13:05:INFO:
+
+Apr 10 18:13:05:INFO:COROLLARY:
+
+Apr 10 18:13:05:INFO:	ON THE WAY TO THE CORNER, ANY DROPPED TOOL WILL FIRST STRIKE
+
+Apr 10 18:13:05:INFO:	YOUR TOES.
+
+Apr 10 18:13:05:INFO:*****************************************************
+
+Apr 10 18:13:05:INFO:my_fortune:asleep() Sleeping for '4' seconds
+Apr 10 18:13:09:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:13:09:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:13:09:INFO:Printing fortune:
+
+Apr 10 18:13:09:INFO:BINARY, ADJ.:
+
+Apr 10 18:13:09:INFO:	POSSESSING THE ABILITY TO HAVE FRIENDS OF BOTH SEXES.
+
+Apr 10 18:13:09:INFO:*****************************************************
+
+Apr 10 18:13:09:INFO:my_fortune:asleep() Sleeping for '11' seconds
+Apr 10 18:13:20:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:13:20:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:13:20:INFO:Printing fortune:
+
+Apr 10 18:13:20:INFO:DECISIONS OF THE JUDGES WILL BE FINAL UNLESS SHOUTED DOWN BY A REALLY
+
+Apr 10 18:13:20:INFO:OVERWHELMING MAJORITY OF THE CROWD PRESENT.  ABUSIVE AND OBSCENE
+
+Apr 10 18:13:20:INFO:LANGUAGE MAY NOT BE USED BY CONTESTANTS WHEN ADDRESSING MEMBERS OF THE
+
+Apr 10 18:13:20:INFO:JUDGING PANEL, OR, CONVERSELY, BY MEMBERS OF THE JUDGING PANEL WHEN
+
+Apr 10 18:13:20:INFO:ADDRESSING CONTESTANTS (UNLESS STRUCK BY A BOOMERANG).
+
+Apr 10 18:13:20:INFO:		-- MUDGEERABA CREEK EMU-RIDING AND BOOMERANG-THROWING
+
+Apr 10 18:13:20:INFO:		   ASSOC.
+
+Apr 10 18:13:20:INFO:*****************************************************
+
+Apr 10 18:13:20:INFO:my_fortune:asleep() Sleeping for '2' seconds
+Apr 10 18:13:22:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:13:22:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:13:22:INFO:Printing fortune:
+
+Apr 10 18:13:22:INFO:THE VERDICT OF A JURY IS THE A PRIORI OPINION OF THAT JUROR WHO SMOKES
+
+Apr 10 18:13:22:INFO:THE WORST CIGARS.
+
+Apr 10 18:13:22:INFO:		-- H. L. MENCKEN
+
+Apr 10 18:13:22:INFO:*****************************************************
+
+Apr 10 18:13:22:INFO:my_fortune:asleep() Sleeping for '3' seconds
+Apr 10 18:13:23:INFO:my_fortune:sighandle() Signal handler method BEGIN
+Apr 10 18:13:23:INFO:my_fortune:sighandle() Resetting the blocking IO flags to original state
+Apr 10 18:13:23:INFO:my_fortune:resetflags() BEGIN
+Apr 10 18:13:23:INFO:my_fortune:resetflags() Reset IO flags to 8194
+Apr 10 18:13:23:INFO:my_fortune:resetflags() END
+Apr 10 18:13:23:INFO:my_fortune:sighandle() Signal handler method END - Exiting program
+Apr 10 18:31:58:INFO:my_fortune:main() Fortune Generator: BEGIN
+Apr 10 18:31:58:INFO:my_fortune:main() Host name is: 'dev3'
+Apr 10 18:31:58:INFO:my_fortune:setnonblock() Setting up non-blocking I/O
+Apr 10 18:31:58:INFO:my_fortune:setnonblock() Finished setting up non-blocking I/O. origflags -> '8194'
+Apr 10 18:31:58:INFO:my_fortune:registersighandle() Registering SIGINT BEGIN
+Apr 10 18:31:58:INFO:my_fortune:registersighandle() SIGINT registered.
+Apr 10 18:31:58:INFO:my_fortune:registersighandle() Registering SIGINT END
+Apr 10 18:31:58:INFO:Printing fortune:
+
+Apr 10 18:31:58:INFO:"CONTRARIWISE," CONTINUED TWEEDLEDEE, "IF IT WAS SO, IT MIGHT BE, AND
+
+Apr 10 18:31:58:INFO:IF IT WERE SO, IT WOULD BE; BUT AS IT ISN'T, IT AIN'T.  THAT'S LOGIC!"
+
+Apr 10 18:31:58:INFO:		-- LEWIS CARROLL, "THROUGH THE LOOKING GLASS"
+
+Apr 10 18:31:58:INFO:*****************************************************
+
+Apr 10 18:31:58:INFO:my_fortune:asleep() Sleeping for '9' seconds
+Apr 10 18:32:07:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:32:07:INFO:my_fortune:querystdin() Found the following on STDIN 'b'
+Apr 10 18:32:07:INFO:my_fortune:querystdin() Found the following on STDIN 'i'
+Apr 10 18:32:07:INFO:my_fortune:querystdin() Found the following on STDIN 's'
+Apr 10 18:32:07:INFO:my_fortune:querystdin() Found the following on STDIN 'q'
+Apr 10 18:32:07:INFO:my_fortune:querystdin() Found the following on STDIN 'u'
+Apr 10 18:32:07:INFO:my_fortune:querystdin() Found the following on STDIN 'e'
+Apr 10 18:32:07:INFO:my_fortune:querystdin() Found the following on STDIN '
+'
+Apr 10 18:32:07:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:32:07:INFO:my_fortune:checkquit() Found quit character: 'q'
+Apr 10 18:32:07:INFO:my_fortune:checkquit() Reseting STDIN flags
+Apr 10 18:32:07:INFO:my_fortune:resetflags() BEGIN
+Apr 10 18:32:07:INFO:my_fortune:resetflags() Reset IO flags to 8194
+Apr 10 18:32:07:INFO:my_fortune:resetflags() END
+Apr 10 18:32:07:INFO:my_fortune:main() Fortune Generator: END
+Apr 10 18:32:15:INFO:my_fortune:main() Fortune Generator: BEGIN
+Apr 10 18:32:15:INFO:my_fortune:main() Host name is: 'dev3'
+Apr 10 18:32:15:INFO:my_fortune:setnonblock() Setting up non-blocking I/O
+Apr 10 18:32:15:INFO:my_fortune:setnonblock() Finished setting up non-blocking I/O. origflags -> '8194'
+Apr 10 18:32:15:INFO:my_fortune:registersighandle() Registering SIGINT BEGIN
+Apr 10 18:32:15:INFO:my_fortune:registersighandle() SIGINT registered.
+Apr 10 18:32:15:INFO:my_fortune:registersighandle() Registering SIGINT END
+Apr 10 18:32:15:INFO:Printing fortune:
+
+Apr 10 18:32:15:INFO:GENIUS, N.:
+
+Apr 10 18:32:15:INFO:	A CHEMIST WHO DISCOVERS A LAUNDRY ADDITIVE THAT RHYMES WITH
+
+Apr 10 18:32:15:INFO:"BRIGHT".
+
+Apr 10 18:32:15:INFO:*****************************************************
+
+Apr 10 18:32:15:INFO:my_fortune:asleep() Sleeping for '9' seconds
+Apr 10 18:32:24:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:32:24:INFO:my_fortune:querystdin() Found the following on STDIN 'b'
+Apr 10 18:32:24:INFO:my_fortune:querystdin() Found the following on STDIN 'i'
+Apr 10 18:32:24:INFO:my_fortune:querystdin() Found the following on STDIN 's'
+Apr 10 18:32:24:INFO:my_fortune:querystdin() Found the following on STDIN 'q'
+Apr 10 18:32:24:INFO:my_fortune:querystdin() Found the following on STDIN 'u'
+Apr 10 18:32:24:INFO:my_fortune:querystdin() Found the following on STDIN 'e'
+Apr 10 18:32:24:INFO:my_fortune:querystdin() Found the following on STDIN '
+'
+Apr 10 18:32:24:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:32:24:INFO:my_fortune:checkquit() Found quit character: 'q'
+Apr 10 18:32:24:INFO:my_fortune:checkquit() Reseting STDIN flags
+Apr 10 18:32:24:INFO:my_fortune:resetflags() BEGIN
+Apr 10 18:32:24:INFO:my_fortune:resetflags() Reset IO flags to 8194
+Apr 10 18:32:24:INFO:my_fortune:resetflags() END
+Apr 10 18:32:24:INFO:my_fortune:main() Fortune Generator: END
+Apr 10 18:32:27:INFO:my_fortune:main() Fortune Generator: BEGIN
+Apr 10 18:32:27:INFO:my_fortune:main() Host name is: 'dev3'
+Apr 10 18:32:27:INFO:my_fortune:setnonblock() Setting up non-blocking I/O
+Apr 10 18:32:27:INFO:my_fortune:setnonblock() Finished setting up non-blocking I/O. origflags -> '8194'
+Apr 10 18:32:27:INFO:my_fortune:registersighandle() Registering SIGINT BEGIN
+Apr 10 18:32:27:INFO:my_fortune:registersighandle() SIGINT registered.
+Apr 10 18:32:27:INFO:my_fortune:registersighandle() Registering SIGINT END
+Apr 10 18:32:27:INFO:Printing fortune:
+
+Apr 10 18:32:27:INFO:NEXT FRIDAY WILL NOT BE YOUR LUCKY DAY.  AS A MATTER OF FACT, YOU DON'T
+
+Apr 10 18:32:27:INFO:HAVE A LUCKY DAY THIS YEAR.
+
+Apr 10 18:32:27:INFO:*****************************************************
+
+Apr 10 18:32:27:INFO:my_fortune:asleep() Sleeping for '9' seconds
+Apr 10 18:32:36:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:32:36:INFO:my_fortune:querystdin() Found the following on STDIN 'q'
+Apr 10 18:32:36:INFO:my_fortune:querystdin() Found the following on STDIN '
+'
+Apr 10 18:32:36:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:32:36:INFO:my_fortune:checkquit() Found quit character: 'q'
+Apr 10 18:32:36:INFO:my_fortune:checkquit() Reseting STDIN flags
+Apr 10 18:32:36:INFO:my_fortune:resetflags() BEGIN
+Apr 10 18:32:36:INFO:my_fortune:resetflags() Reset IO flags to 8194
+Apr 10 18:32:36:INFO:my_fortune:resetflags() END
+Apr 10 18:32:36:INFO:my_fortune:main() Fortune Generator: END
+Apr 10 18:41:12:INFO:my_fortune:main() Fortune Generator: BEGIN
+Apr 10 18:41:12:INFO:my_fortune:main() Host name is: 'dev3'
+Apr 10 18:41:12:INFO:my_fortune:registersighandle() Registering SIGINT BEGIN
+Apr 10 18:41:12:INFO:my_fortune:registersighandle() SIGINT registered.
+Apr 10 18:41:12:INFO:my_fortune:registersighandle() Registering SIGINT END
+Apr 10 18:41:12:INFO:my_fortune:setnonblock() Setting up non-blocking I/O
+Apr 10 18:41:12:INFO:my_fortune:setnonblock() Finished setting up non-blocking I/O. origflags -> '8194'
+Apr 10 18:41:12:INFO:Printing fortune:
+
+Apr 10 18:41:12:INFO:A PHYSICIST IS AN ATOM'S WAY OF KNOWING ABOUT ATOMS.
+
+Apr 10 18:41:12:INFO:		-- GEORGE WALD
+
+Apr 10 18:41:12:INFO:*****************************************************
+
+Apr 10 18:41:12:INFO:my_fortune:asleep() Sleeping for '9' seconds
+Apr 10 18:41:21:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:41:21:INFO:my_fortune:querystdin() Found the following on STDIN 'b'
+Apr 10 18:41:21:INFO:my_fortune:querystdin() Found the following on STDIN 'i'
+Apr 10 18:41:21:INFO:my_fortune:querystdin() Found the following on STDIN 's'
+Apr 10 18:41:21:INFO:my_fortune:querystdin() Found the following on STDIN 'q'
+Apr 10 18:41:21:INFO:my_fortune:querystdin() Found the following on STDIN 'u'
+Apr 10 18:41:21:INFO:my_fortune:querystdin() Found the following on STDIN 'e'
+Apr 10 18:41:21:INFO:my_fortune:querystdin() Found the following on STDIN '
+'
+Apr 10 18:41:21:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:41:21:INFO:my_fortune:checkquit() Found quit character: 'q'
+Apr 10 18:41:21:INFO:my_fortune:checkquit() Reseting STDIN flags
+Apr 10 18:41:21:INFO:my_fortune:resetflags() BEGIN
+Apr 10 18:41:21:INFO:my_fortune:resetflags() Reset IO flags to 8194
+Apr 10 18:41:21:INFO:my_fortune:resetflags() END
+Apr 10 18:41:21:INFO:my_fortune:main() Fortune Generator: END
+Apr 10 18:41:28:INFO:my_fortune:main() Fortune Generator: BEGIN
+Apr 10 18:41:28:INFO:my_fortune:main() Host name is: 'dev3'
+Apr 10 18:41:28:INFO:my_fortune:registersighandle() Registering SIGINT BEGIN
+Apr 10 18:41:28:INFO:my_fortune:registersighandle() SIGINT registered.
+Apr 10 18:41:28:INFO:my_fortune:registersighandle() Registering SIGINT END
+Apr 10 18:41:28:INFO:my_fortune:setnonblock() Setting up non-blocking I/O
+Apr 10 18:41:28:INFO:my_fortune:setnonblock() Finished setting up non-blocking I/O. origflags -> '8194'
+Apr 10 18:41:28:INFO:Printing fortune:
+
+Apr 10 18:41:28:INFO:TAXES, N.:
+
+Apr 10 18:41:28:INFO:	OF LIFE'S TWO CERTAINTIES, THE ONLY ONE FOR WHICH YOU CAN GET
+
+Apr 10 18:41:28:INFO:AN EXTENSION.
+
+Apr 10 18:41:28:INFO:*****************************************************
+
+Apr 10 18:41:28:INFO:my_fortune:asleep() Sleeping for '9' seconds
+Apr 10 18:41:37:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:41:37:INFO:my_fortune:querystdin() Found the following on STDIN 'l'
+Apr 10 18:41:37:INFO:my_fortune:querystdin() Found the following on STDIN 'a'
+Apr 10 18:41:37:INFO:my_fortune:querystdin() Found the following on STDIN 's'
+Apr 10 18:41:37:INFO:my_fortune:querystdin() Found the following on STDIN 'k'
+Apr 10 18:41:37:INFO:my_fortune:querystdin() Found the following on STDIN 'd'
+Apr 10 18:41:37:INFO:my_fortune:querystdin() Found the following on STDIN 'j'
+Apr 10 18:41:37:INFO:my_fortune:querystdin() Found the following on STDIN 'f'
+Apr 10 18:41:37:INFO:my_fortune:querystdin() Found the following on STDIN '
+'
+Apr 10 18:41:37:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:41:37:INFO:Printing fortune:
+
+Apr 10 18:41:37:INFO:LOOK, WE PLAY THE STAR SPANGLED BANNER BEFORE EVERY GAME.  YOU WANT US
+
+Apr 10 18:41:37:INFO:TO PAY INCOME TAXES, TOO?
+
+Apr 10 18:41:37:INFO:		-- BILL VEECK, CHICAGO WHITE SOX
+
+Apr 10 18:41:37:INFO:*****************************************************
+
+Apr 10 18:41:37:INFO:my_fortune:asleep() Sleeping for '14' seconds
+Apr 10 18:41:38:INFO:my_fortune:sighandle() Signal handler method BEGIN
+Apr 10 18:41:38:INFO:my_fortune:sighandle() Resetting the blocking IO flags to original state
+Apr 10 18:41:38:INFO:my_fortune:resetflags() BEGIN
+Apr 10 18:41:38:INFO:my_fortune:resetflags() Reset IO flags to 8194
+Apr 10 18:41:38:INFO:my_fortune:resetflags() END
+Apr 10 18:41:38:INFO:my_fortune:sighandle() Signal handler method END - Exiting program
+Apr 10 18:41:40:INFO:my_fortune:main() Fortune Generator: BEGIN
+Apr 10 18:41:40:INFO:my_fortune:main() Host name is: 'dev3'
+Apr 10 18:41:40:INFO:my_fortune:registersighandle() Registering SIGINT BEGIN
+Apr 10 18:41:40:INFO:my_fortune:registersighandle() SIGINT registered.
+Apr 10 18:41:40:INFO:my_fortune:registersighandle() Registering SIGINT END
+Apr 10 18:41:40:INFO:my_fortune:setnonblock() Setting up non-blocking I/O
+Apr 10 18:41:40:INFO:my_fortune:setnonblock() Finished setting up non-blocking I/O. origflags -> '8194'
+Apr 10 18:41:40:INFO:Printing fortune:
+
+Apr 10 18:41:40:INFO:"THE SCHIZOPHRENIC: AN UNAUTHORIZED AUTOBIOGRAPHY"
+
+Apr 10 18:41:40:INFO:*****************************************************
+
+Apr 10 18:41:40:INFO:my_fortune:asleep() Sleeping for '9' seconds
+Apr 10 18:41:49:INFO:my_fortune:querystdin() Querying STDIN BEGIN
+Apr 10 18:41:49:INFO:my_fortune:querystdin() Found the following on STDIN 'q'
+Apr 10 18:41:49:INFO:my_fortune:querystdin() Found the following on STDIN '
+'
+Apr 10 18:41:49:INFO:my_fortune:querystdin() read would have blocked
+
+Apr 10 18:41:49:INFO:my_fortune:checkquit() Found quit character: 'q'
+Apr 10 18:41:49:INFO:my_fortune:checkquit() Reseting STDIN flags
+Apr 10 18:41:49:INFO:my_fortune:resetflags() BEGIN
+Apr 10 18:41:49:INFO:my_fortune:resetflags() Reset IO flags to 8194
+Apr 10 18:41:49:INFO:my_fortune:resetflags() END
+Apr 10 18:41:49:INFO:my_fortune:main() Fortune Generator: END

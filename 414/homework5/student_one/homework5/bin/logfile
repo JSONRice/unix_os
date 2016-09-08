@@ -1,0 +1,311 @@
+<Sun May 03 21:30:11 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Sun May 03 21:31:23 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Sun May 03 21:31:23 2015 EDT>:<Info   >:<connecting to shared memory using key: 12345>
+<Sun May 03 21:31:34 2015 EDT>:<Info   >:<spaces:   764>
+<Sun May 03 21:31:34 2015 EDT>:<Info   >:<mapped:   764>
+<Sun May 03 21:31:34 2015 EDT>:<Info   >:<lawsuits: 0>
+<Sun May 03 21:31:34 2015 EDT>:<Info   >:<moves:    2178>
+<Sun May 03 21:31:34 2015 EDT>:<Info   >:<move to space ratio: 2.850785>
+<Sun May 03 21:31:34 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Sun May 03 21:31:34 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Sun May 03 21:32:22 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Sun May 03 21:32:22 2015 EDT>:<Info   >:<connecting to shared memory using key: 12345>
+<Sun May 03 21:32:33 2015 EDT>:<Info   >:<spaces:   764>
+<Sun May 03 21:32:33 2015 EDT>:<Info   >:<mapped:   764>
+<Sun May 03 21:32:33 2015 EDT>:<Info   >:<lawsuits: 0>
+<Sun May 03 21:32:33 2015 EDT>:<Info   >:<moves:    2178>
+<Sun May 03 21:32:33 2015 EDT>:<Info   >:<move to space ratio: 2.850785>
+<Sun May 03 21:32:33 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Sun May 03 21:32:33 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Sun May 03 21:33:43 2015 EDT>:<Info   >:<connecting to socket using port: 10001>
+<Sun May 03 21:33:43 2015 EDT>:<Info   >:<connecting to shared memory using key: 12345>
+<Sun May 03 21:33:53 2015 EDT>:<Info   >:<spaces:   654>
+<Sun May 03 21:33:53 2015 EDT>:<Info   >:<mapped:   654>
+<Sun May 03 21:33:53 2015 EDT>:<Info   >:<lawsuits: 0>
+<Sun May 03 21:33:53 2015 EDT>:<Info   >:<moves:    1940>
+<Sun May 03 21:33:53 2015 EDT>:<Info   >:<move to space ratio: 2.966361>
+<Sun May 03 21:33:53 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Sun May 03 21:33:53 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Sun May 03 21:45:49 2015 EDT>:<Info   >:<connecting to socket using port: 10001>
+<Sun May 03 21:45:49 2015 EDT>:<Info   >:<connecting to shared memory using key: 12345>
+<Sun May 03 21:46:01 2015 EDT>:<Info   >:<spaces:   819>
+<Sun May 03 21:46:01 2015 EDT>:<Info   >:<mapped:   819>
+<Sun May 03 21:46:01 2015 EDT>:<Info   >:<lawsuits: 0>
+<Sun May 03 21:46:01 2015 EDT>:<Info   >:<moves:    2349>
+<Sun May 03 21:46:01 2015 EDT>:<Info   >:<move to space ratio: 2.868132>
+<Sun May 03 21:46:01 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Sun May 03 21:46:01 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Sun May 03 21:46:09 2015 EDT>:<Info   >:<connecting to socket using port: 10001>
+<Sun May 03 21:46:09 2015 EDT>:<Info   >:<connecting to shared memory using key: 12345>
+<Sun May 03 21:46:20 2015 EDT>:<Info   >:<spaces:   748>
+<Sun May 03 21:46:20 2015 EDT>:<Info   >:<mapped:   748>
+<Sun May 03 21:46:20 2015 EDT>:<Info   >:<lawsuits: 0>
+<Sun May 03 21:46:20 2015 EDT>:<Info   >:<moves:    2174>
+<Sun May 03 21:46:20 2015 EDT>:<Info   >:<move to space ratio: 2.906417>
+<Sun May 03 21:46:20 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Sun May 03 21:46:20 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Sun May 03 21:46:53 2015 EDT>:<Info   >:<connecting to socket using port: 10001>
+<Sun May 03 21:50:15 2015 EDT>:<Info   >:<connecting to socket using port: 10001>
+<Sun May 03 21:50:18 2015 EDT>:<Info   >:<connecting to socket using port: 10002>
+<Sun May 03 21:50:18 2015 EDT>:<Info   >:<connecting to shared memory using key: 12345>
+<Sun May 03 21:50:32 2015 EDT>:<Info   >:<spaces:   654>
+<Sun May 03 21:50:32 2015 EDT>:<Info   >:<mapped:   654>
+<Sun May 03 21:50:32 2015 EDT>:<Info   >:<lawsuits: 0>
+<Sun May 03 21:50:32 2015 EDT>:<Info   >:<moves:    2768>
+<Sun May 03 21:50:32 2015 EDT>:<Info   >:<move to space ratio: 4.232416>
+<Sun May 03 21:50:32 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Sun May 03 21:50:32 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Sun May 03 21:51:10 2015 EDT>:<Info   >:<connecting to socket using port: 10002>
+<Sun May 03 21:51:10 2015 EDT>:<Info   >:<connecting to shared memory using key: 12345>
+<Sun May 03 21:51:22 2015 EDT>:<Info   >:<spaces:   764>
+<Sun May 03 21:51:22 2015 EDT>:<Info   >:<mapped:   764>
+<Sun May 03 21:51:22 2015 EDT>:<Info   >:<lawsuits: 0>
+<Sun May 03 21:51:22 2015 EDT>:<Info   >:<moves:    2178>
+<Sun May 03 21:51:22 2015 EDT>:<Info   >:<move to space ratio: 2.850785>
+<Sun May 03 21:51:22 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Sun May 03 21:51:22 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Sun May 03 21:51:36 2015 EDT>:<Info   >:<connecting to socket using port: 10002>
+<Sun May 03 21:51:36 2015 EDT>:<Info   >:<connecting to shared memory using key: 12345>
+<Sun May 03 21:51:47 2015 EDT>:<Info   >:<spaces:   741>
+<Sun May 03 21:51:47 2015 EDT>:<Info   >:<mapped:   741>
+<Sun May 03 21:51:47 2015 EDT>:<Info   >:<lawsuits: 0>
+<Sun May 03 21:51:47 2015 EDT>:<Info   >:<moves:    2164>
+<Sun May 03 21:51:47 2015 EDT>:<Info   >:<move to space ratio: 2.920378>
+<Sun May 03 21:51:47 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Sun May 03 21:51:47 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Sun May 03 21:51:51 2015 EDT>:<Info   >:<connecting to socket using port: 10002>
+<Sun May 03 21:51:51 2015 EDT>:<Info   >:<connecting to shared memory using key: 12345>
+<Sun May 03 21:52:03 2015 EDT>:<Info   >:<spaces:   828>
+<Sun May 03 21:52:03 2015 EDT>:<Info   >:<mapped:   828>
+<Sun May 03 21:52:03 2015 EDT>:<Info   >:<lawsuits: 0>
+<Sun May 03 21:52:03 2015 EDT>:<Info   >:<moves:    2304>
+<Sun May 03 21:52:03 2015 EDT>:<Info   >:<move to space ratio: 2.782609>
+<Sun May 03 21:52:03 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Sun May 03 21:52:03 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Sun May 03 21:52:18 2015 EDT>:<Info   >:<connecting to socket using port: 10002>
+<Sun May 03 21:52:18 2015 EDT>:<Info   >:<connecting to shared memory using key: 12345>
+<Sun May 03 21:52:30 2015 EDT>:<Info   >:<spaces:   763>
+<Sun May 03 21:52:30 2015 EDT>:<Info   >:<mapped:   763>
+<Sun May 03 21:52:30 2015 EDT>:<Info   >:<lawsuits: 0>
+<Sun May 03 21:52:30 2015 EDT>:<Info   >:<moves:    2228>
+<Sun May 03 21:52:30 2015 EDT>:<Info   >:<move to space ratio: 2.920053>
+<Sun May 03 21:52:30 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Sun May 03 21:52:30 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Sun May 03 21:52:40 2015 EDT>:<Info   >:<connecting to socket using port: 10002>
+<Sun May 03 21:52:40 2015 EDT>:<Info   >:<connecting to shared memory using key: 12345>
+<Sun May 03 21:52:51 2015 EDT>:<Info   >:<spaces:   751>
+<Sun May 03 21:52:51 2015 EDT>:<Info   >:<mapped:   751>
+<Sun May 03 21:52:51 2015 EDT>:<Info   >:<lawsuits: 0>
+<Sun May 03 21:52:51 2015 EDT>:<Info   >:<moves:    2177>
+<Sun May 03 21:52:51 2015 EDT>:<Info   >:<move to space ratio: 2.898802>
+<Sun May 03 21:52:51 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Sun May 03 21:52:51 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Sun May 03 21:53:11 2015 EDT>:<Info   >:<connecting to socket using port: 10002>
+<Sun May 03 21:53:11 2015 EDT>:<Info   >:<connecting to shared memory using key: 12345>
+<Sun May 03 21:53:21 2015 EDT>:<Info   >:<spaces:   766>
+<Sun May 03 21:53:21 2015 EDT>:<Info   >:<mapped:   766>
+<Sun May 03 21:53:21 2015 EDT>:<Info   >:<lawsuits: 0>
+<Sun May 03 21:53:21 2015 EDT>:<Info   >:<moves:    2124>
+<Sun May 03 21:53:21 2015 EDT>:<Info   >:<move to space ratio: 2.772846>
+<Sun May 03 21:53:21 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Sun May 03 21:53:21 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Sun May 03 21:53:25 2015 EDT>:<Info   >:<connecting to socket using port: 10002>
+<Sun May 03 21:53:25 2015 EDT>:<Info   >:<connecting to shared memory using key: 12345>
+<Sun May 03 21:53:37 2015 EDT>:<Info   >:<spaces:   872>
+<Sun May 03 21:53:37 2015 EDT>:<Info   >:<mapped:   872>
+<Sun May 03 21:53:37 2015 EDT>:<Info   >:<lawsuits: 0>
+<Sun May 03 21:53:37 2015 EDT>:<Info   >:<moves:    2391>
+<Sun May 03 21:53:37 2015 EDT>:<Info   >:<move to space ratio: 2.741972>
+<Sun May 03 21:53:37 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Sun May 03 21:53:37 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 18:59:30 2015 EDT>:<Info   >:<connecting to socket using port: 10002>
+<Mon May 04 18:59:30 2015 EDT>:<Info   >:<connecting to shared memory using key: 12345>
+<Mon May 04 18:59:40 2015 EDT>:<Info   >:<spaces:   743>
+<Mon May 04 18:59:40 2015 EDT>:<Info   >:<mapped:   637>
+<Mon May 04 18:59:40 2015 EDT>:<Info   >:<lawsuits: 7>
+<Mon May 04 18:59:40 2015 EDT>:<Info   >:<moves:    1863>
+<Mon May 04 18:59:40 2015 EDT>:<Info   >:<move to space ratio: 2.507402>
+<Mon May 04 18:59:40 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 18:59:40 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 19:02:32 2015 EDT>:<Info   >:<connecting to socket using port: 10002>
+<Mon May 04 19:02:32 2015 EDT>:<Info   >:<connecting to shared memory using key: 12345>
+<Mon May 04 19:02:44 2015 EDT>:<Info   >:<spaces:   852>
+<Mon May 04 19:02:44 2015 EDT>:<Info   >:<mapped:   852>
+<Mon May 04 19:02:44 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 19:02:44 2015 EDT>:<Info   >:<moves:    2340>
+<Mon May 04 19:02:44 2015 EDT>:<Info   >:<move to space ratio: 2.746479>
+<Mon May 04 19:02:44 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 19:02:44 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 19:23:52 2015 EDT>:<Info   >:<connecting to socket using port: 10002>
+<Mon May 04 19:23:52 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 19:24:18 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 19:24:18 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 19:24:29 2015 EDT>:<Info   >:<spaces:   740>
+<Mon May 04 19:24:29 2015 EDT>:<Info   >:<mapped:   740>
+<Mon May 04 19:24:29 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 19:24:29 2015 EDT>:<Info   >:<moves:    2105>
+<Mon May 04 19:24:29 2015 EDT>:<Info   >:<move to space ratio: 2.844594>
+<Mon May 04 19:24:29 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 19:24:29 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 19:26:33 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 19:26:33 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 19:26:44 2015 EDT>:<Info   >:<spaces:   779>
+<Mon May 04 19:26:44 2015 EDT>:<Info   >:<mapped:   779>
+<Mon May 04 19:26:44 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 19:26:44 2015 EDT>:<Info   >:<moves:    2224>
+<Mon May 04 19:26:44 2015 EDT>:<Info   >:<move to space ratio: 2.854942>
+<Mon May 04 19:26:44 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 19:26:44 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 19:26:59 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 19:26:59 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 19:27:10 2015 EDT>:<Info   >:<spaces:   761>
+<Mon May 04 19:27:10 2015 EDT>:<Info   >:<mapped:   761>
+<Mon May 04 19:27:10 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 19:27:10 2015 EDT>:<Info   >:<moves:    2178>
+<Mon May 04 19:27:10 2015 EDT>:<Info   >:<move to space ratio: 2.862024>
+<Mon May 04 19:27:10 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 19:27:10 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 19:27:19 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 19:27:19 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 19:27:30 2015 EDT>:<Info   >:<spaces:   763>
+<Mon May 04 19:27:30 2015 EDT>:<Info   >:<mapped:   763>
+<Mon May 04 19:27:30 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 19:27:30 2015 EDT>:<Info   >:<moves:    2178>
+<Mon May 04 19:27:30 2015 EDT>:<Info   >:<move to space ratio: 2.854522>
+<Mon May 04 19:27:30 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 19:27:30 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 19:27:33 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 19:27:33 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 19:27:44 2015 EDT>:<Info   >:<spaces:   764>
+<Mon May 04 19:27:44 2015 EDT>:<Info   >:<mapped:   764>
+<Mon May 04 19:27:44 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 19:27:44 2015 EDT>:<Info   >:<moves:    2178>
+<Mon May 04 19:27:44 2015 EDT>:<Info   >:<move to space ratio: 2.850785>
+<Mon May 04 19:27:44 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 19:27:44 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 19:27:46 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 19:27:46 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 19:27:58 2015 EDT>:<Info   >:<spaces:   828>
+<Mon May 04 19:27:58 2015 EDT>:<Info   >:<mapped:   828>
+<Mon May 04 19:27:58 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 19:27:58 2015 EDT>:<Info   >:<moves:    2304>
+<Mon May 04 19:27:58 2015 EDT>:<Info   >:<move to space ratio: 2.782609>
+<Mon May 04 19:27:58 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 19:27:58 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 19:28:09 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 19:28:09 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 19:28:20 2015 EDT>:<Info   >:<spaces:   751>
+<Mon May 04 19:28:20 2015 EDT>:<Info   >:<mapped:   751>
+<Mon May 04 19:28:20 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 19:28:20 2015 EDT>:<Info   >:<moves:    2177>
+<Mon May 04 19:28:20 2015 EDT>:<Info   >:<move to space ratio: 2.898802>
+<Mon May 04 19:28:20 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 19:28:20 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 19:28:43 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 19:28:43 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 19:28:54 2015 EDT>:<Info   >:<spaces:   766>
+<Mon May 04 19:28:54 2015 EDT>:<Info   >:<mapped:   766>
+<Mon May 04 19:28:54 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 19:28:54 2015 EDT>:<Info   >:<moves:    2124>
+<Mon May 04 19:28:54 2015 EDT>:<Info   >:<move to space ratio: 2.772846>
+<Mon May 04 19:28:54 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 19:28:54 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 19:28:57 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 19:28:57 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 19:29:09 2015 EDT>:<Info   >:<spaces:   819>
+<Mon May 04 19:29:09 2015 EDT>:<Info   >:<mapped:   819>
+<Mon May 04 19:29:09 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 19:29:09 2015 EDT>:<Info   >:<moves:    2349>
+<Mon May 04 19:29:09 2015 EDT>:<Info   >:<move to space ratio: 2.868132>
+<Mon May 04 19:29:09 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 19:29:09 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 19:29:30 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 19:29:30 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 19:29:42 2015 EDT>:<Info   >:<spaces:   897>
+<Mon May 04 19:29:42 2015 EDT>:<Info   >:<mapped:   897>
+<Mon May 04 19:29:42 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 19:29:42 2015 EDT>:<Info   >:<moves:    2471>
+<Mon May 04 19:29:42 2015 EDT>:<Info   >:<move to space ratio: 2.754738>
+<Mon May 04 19:29:42 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 19:29:42 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 19:29:49 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 19:29:49 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 19:30:02 2015 EDT>:<Info   >:<spaces:   948>
+<Mon May 04 19:30:02 2015 EDT>:<Info   >:<mapped:   948>
+<Mon May 04 19:30:02 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 19:30:02 2015 EDT>:<Info   >:<moves:    2486>
+<Mon May 04 19:30:02 2015 EDT>:<Info   >:<move to space ratio: 2.622363>
+<Mon May 04 19:30:02 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 19:30:02 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 19:30:40 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 19:30:40 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 19:30:52 2015 EDT>:<Info   >:<spaces:   821>
+<Mon May 04 19:30:52 2015 EDT>:<Info   >:<mapped:   821>
+<Mon May 04 19:30:52 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 19:30:52 2015 EDT>:<Info   >:<moves:    2274>
+<Mon May 04 19:30:52 2015 EDT>:<Info   >:<move to space ratio: 2.769793>
+<Mon May 04 19:30:52 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 19:30:52 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 19:30:59 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 19:30:59 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 19:31:10 2015 EDT>:<Info   >:<spaces:   702>
+<Mon May 04 19:31:10 2015 EDT>:<Info   >:<mapped:   702>
+<Mon May 04 19:31:10 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 19:31:10 2015 EDT>:<Info   >:<moves:    2059>
+<Mon May 04 19:31:10 2015 EDT>:<Info   >:<move to space ratio: 2.933048>
+<Mon May 04 19:31:10 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 19:31:10 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 19:31:16 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 19:31:16 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 19:31:28 2015 EDT>:<Info   >:<spaces:   827>
+<Mon May 04 19:31:28 2015 EDT>:<Info   >:<mapped:   827>
+<Mon May 04 19:31:28 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 19:31:28 2015 EDT>:<Info   >:<moves:    2315>
+<Mon May 04 19:31:28 2015 EDT>:<Info   >:<move to space ratio: 2.799274>
+<Mon May 04 19:31:28 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 19:31:28 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 21:30:30 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 21:30:30 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 21:30:41 2015 EDT>:<Info   >:<spaces:   747>
+<Mon May 04 21:30:41 2015 EDT>:<Info   >:<mapped:   747>
+<Mon May 04 21:30:41 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 21:30:41 2015 EDT>:<Info   >:<moves:    2134>
+<Mon May 04 21:30:41 2015 EDT>:<Info   >:<move to space ratio: 2.856760>
+<Mon May 04 21:30:41 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 21:30:41 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 21:45:25 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 21:45:25 2015 EDT>:<Info   >:<connecting to shared memory using key: 12345>
+<Mon May 04 21:45:36 2015 EDT>:<Info   >:<spaces:   774>
+<Mon May 04 21:45:36 2015 EDT>:<Info   >:<mapped:   774>
+<Mon May 04 21:45:36 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 21:45:36 2015 EDT>:<Info   >:<moves:    2221>
+<Mon May 04 21:45:36 2015 EDT>:<Info   >:<move to space ratio: 2.869509>
+<Mon May 04 21:45:36 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 21:45:36 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 21:48:27 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 21:48:27 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 21:48:37 2015 EDT>:<Info   >:<spaces:   697>
+<Mon May 04 21:48:37 2015 EDT>:<Info   >:<mapped:   697>
+<Mon May 04 21:48:37 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 21:48:37 2015 EDT>:<Info   >:<moves:    2082>
+<Mon May 04 21:48:37 2015 EDT>:<Info   >:<move to space ratio: 2.987087>
+<Mon May 04 21:48:37 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 21:48:37 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 21:59:46 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 21:59:46 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 21:59:57 2015 EDT>:<Info   >:<spaces:   698>
+<Mon May 04 21:59:57 2015 EDT>:<Info   >:<mapped:   698>
+<Mon May 04 21:59:57 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 21:59:57 2015 EDT>:<Info   >:<moves:    2089>
+<Mon May 04 21:59:57 2015 EDT>:<Info   >:<move to space ratio: 2.992837>
+<Mon May 04 21:59:57 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 21:59:57 2015 EDT>:<Info   >:<disconnecting from socket.>
+<Mon May 04 22:00:34 2015 EDT>:<Info   >:<connecting to socket using port: 10000>
+<Mon May 04 22:00:34 2015 EDT>:<Info   >:<connecting to shared memory using key: 6789>
+<Mon May 04 22:00:46 2015 EDT>:<Info   >:<spaces:   784>
+<Mon May 04 22:00:46 2015 EDT>:<Info   >:<mapped:   784>
+<Mon May 04 22:00:46 2015 EDT>:<Info   >:<lawsuits: 0>
+<Mon May 04 22:00:46 2015 EDT>:<Info   >:<moves:    2220>
+<Mon May 04 22:00:46 2015 EDT>:<Info   >:<move to space ratio: 2.831633>
+<Mon May 04 22:00:46 2015 EDT>:<Info   >:<disconnecting from shared memory.>
+<Mon May 04 22:00:46 2015 EDT>:<Info   >:<disconnecting from socket.>

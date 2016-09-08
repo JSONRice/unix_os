@@ -1,0 +1,230 @@
+Apr 30 21:40:06:INFO:install_and_monitor:main() BEGIN
+Apr 30 21:40:06:INFO:install_and_monitor:init_locks() Initialized destructor lock.
+Apr 30 21:40:06:INFO:install_and_monitor:init_locks() Initialized signal lock.
+Apr 30 21:40:06:INFO:install_and_monitor:registersighandle() Signal with code '15' is registered.
+Apr 30 21:40:06:INFO:install_and_monitor:registersighandle() Signal with code '1' is registered.
+Apr 30 21:40:06:INFO:install_and_monitor:ingest() Clearing current bytes (setting to zeros).
+
+Apr 30 21:40:06:INFO:install_and_monitor:ingest() Parsing 'ultraultratest.in' into vector<tuple> tuples.
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:0 x:40.00, y:20.00, inc:1
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:1 x:30.00, y:26.00, inc:0
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:3 x:15.40, y:0.00, inc:3
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:2 x:0.00, y:4.00, inc:2
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:1 x:0.00, y:0.00, inc:-1
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:3 x:0.00, y:0.00, inc:-1
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:2 x:0.00, y:0.00, inc:-1
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:0 x:0.00, y:0.00, inc:-1
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:19 x:99.00, y:-10.00, inc:2
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:18 x:-15.00, y:-2.50, inc:1
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:20 x:5.00, y:4.00, inc:4
+
+Apr 30 21:40:06:WARNING:install_and_monitor:parse() Index of '20' out of range (0-19). Not installing.
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:2 x:0.00, y:4.00, inc:2
+
+Apr 30 21:40:06:WARNING:install_and_monitor:parse() Skipping empty lines.
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:0 x:40.00, y:20.00, inc:1
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:1 x:30.00, y:26.00, inc:0
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:3 x:15.40, y:0.00, inc:3
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:2 x:0.00, y:4.00, inc:2
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:1 x:0.00, y:0.00, inc:-1
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:3 x:0.00, y:0.00, inc:-1
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:2 x:0.00, y:0.00, inc:-1
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:0 x:0.00, y:0.00, inc:-1
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:19 x:99.00, y:-10.00, inc:2
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:18 x:-15.00, y:-2.50, inc:1
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:20 x:5.00, y:4.00, inc:4
+
+Apr 30 21:40:06:WARNING:install_and_monitor:parse() Index of '20' out of range (0-19). Not installing.
+
+Apr 30 21:40:06:INFO:install_and_monitor:parse() Parsed tuple --> index:2 x:0.00, y:4.00, inc:2
+
+Apr 30 21:40:06:WARNING:install_and_monitor:parse() Skipping empty lines.
+
+Apr 30 21:40:06:INFO:install_and_monitor:main() Spawning install thread.
+Apr 30 21:40:06:INFO:install_and_monitor:run() thread: 4290771752 <-> id: '1' <-> *thread:2* spawned
+Apr 30 21:40:06:INFO:install_and_monitor:main() Spawning monitor thread.
+Apr 30 21:40:06:INFO:install_and_monitor:install() tuple_inc -> 1
+Apr 30 21:40:06:INFO:install_and_monitor:install() Increment time is non-negative. Installing in 1 secs
+
+Apr 30 21:40:06:INFO:install_and_monitor:run() thread: 4290771752 <-> id: '2' <-> *thread:3* spawned
+Apr 30 21:40:06:INFO:install_and_monitor:ping_threads() Install thread: '2' spawned!
+Apr 30 21:40:06:INFO:install_and_monitor:ping_threads() Monitor thread: '3' spawned!
+Apr 30 21:40:06:INFO:install_and_monitor:block_and_wait() blocking threads until they are all done...
+Apr 30 21:40:06:INFO:At time 0:no elements are active
+Apr 30 21:40:06:INFO:install_and_monitor:wait() BEGIN
+Apr 30 21:40:07:INFO:install_and_monitor:install() Installed block --> [0](x, y, is_valid): 40.00, 20.00, 1
+
+Apr 30 21:40:07:INFO:install_and_monitor:install() tuple_inc -> 0
+Apr 30 21:40:07:INFO:install_and_monitor:install() Increment time is non-negative. Installing in 0 secs
+
+Apr 30 21:40:07:INFO:install_and_monitor:install() Installed block --> [1](x, y, is_valid): 30.00, 26.00, 1
+
+Apr 30 21:40:07:INFO:install_and_monitor:install() tuple_inc -> 3
+Apr 30 21:40:07:INFO:install_and_monitor:monitor_global_mem() At time 1:2 elements are active:x = 35.00 and y = 23.00
+Apr 30 21:40:07:INFO:install_and_monitor:install() Increment time is non-negative. Installing in 3 secs
+
+Apr 30 21:40:08:INFO:install_and_monitor:monitor_global_mem() At time 2:2 elements are active:x = 35.00 and y = 23.00
+Apr 30 21:40:09:INFO:install_and_monitor:monitor_global_mem() At time 3:2 elements are active:x = 35.00 and y = 23.00
+Apr 30 21:40:10:INFO:install_and_monitor:install() Installed block --> [3](x, y, is_valid): 15.40, 0.00, 1
+
+Apr 30 21:40:10:INFO:install_and_monitor:install() tuple_inc -> 2
+Apr 30 21:40:10:INFO:install_and_monitor:install() Increment time is non-negative. Installing in 2 secs
+
+Apr 30 21:40:10:INFO:install_and_monitor:monitor_global_mem() At time 4:3 elements are active:x = 28.47 and y = 15.33
+Apr 30 21:40:11:INFO:install_and_monitor:monitor_global_mem() At time 5:3 elements are active:x = 28.47 and y = 15.33
+Apr 30 21:40:12:INFO:install_and_monitor:install() Installed block --> [2](x, y, is_valid): 0.00, 4.00, 1
+
+Apr 30 21:40:12:INFO:install_and_monitor:install() tuple_inc -> -1
+Apr 30 21:40:12:INFO:install_and_monitor:install() Increment time is negative (invalid). Sleeping for 1 secs
+
+Apr 30 21:40:12:INFO:install_and_monitor:monitor_global_mem() At time 6:4 elements are active:x = 21.35 and y = 12.50
+Apr 30 21:40:13:INFO:install_and_monitor:install() Did not install block (invalid). Set is_valid to 0 at [1]
+
+Apr 30 21:40:13:INFO:install_and_monitor:install() tuple_inc -> -1
+Apr 30 21:40:13:INFO:install_and_monitor:install() Increment time is negative (invalid). Sleeping for 1 secs
+
+Apr 30 21:40:13:INFO:install_and_monitor:monitor_global_mem() At time 7:3 elements are active:x = 18.47 and y = 8.00
+Apr 30 21:40:14:INFO:install_and_monitor:install() Did not install block (invalid). Set is_valid to 0 at [3]
+
+Apr 30 21:40:14:INFO:install_and_monitor:install() tuple_inc -> -1
+Apr 30 21:40:14:INFO:install_and_monitor:install() Increment time is negative (invalid). Sleeping for 1 secs
+
+Apr 30 21:40:14:INFO:install_and_monitor:monitor_global_mem() At time 8:2 elements are active:x = 20.00 and y = 12.00
+Apr 30 21:40:15:INFO:install_and_monitor:install() Did not install block (invalid). Set is_valid to 0 at [2]
+
+Apr 30 21:40:15:INFO:install_and_monitor:install() tuple_inc -> -1
+Apr 30 21:40:15:INFO:install_and_monitor:install() Increment time is negative (invalid). Sleeping for 1 secs
+
+Apr 30 21:40:15:INFO:install_and_monitor:monitor_global_mem() At time 9:1 elements are active:x = 40.00 and y = 20.00
+Apr 30 21:40:16:INFO:install_and_monitor:install() Did not install block (invalid). Set is_valid to 0 at [0]
+
+Apr 30 21:40:16:INFO:At time 10:no elements are active
+Apr 30 21:40:16:INFO:install_and_monitor:install() tuple_inc -> 2
+Apr 30 21:40:16:INFO:install_and_monitor:install() Increment time is non-negative. Installing in 2 secs
+
+Apr 30 21:40:17:INFO:At time 11:no elements are active
+Apr 30 21:40:18:INFO:install_and_monitor:install() Installed block --> [19](x, y, is_valid): 99.00, -10.00, 1
+
+Apr 30 21:40:18:INFO:install_and_monitor:install() tuple_inc -> 1
+Apr 30 21:40:18:INFO:install_and_monitor:monitor_global_mem() At time 12:1 elements are active:x = 99.00 and y = -10.00
+Apr 30 21:40:18:INFO:install_and_monitor:install() Increment time is non-negative. Installing in 1 secs
+
+Apr 30 21:40:18:INFO:install_and_monitor:sighuphandle() Caught SIGHUP. Stop install thread, clear mem, and reinstall:
+Apr 30 21:40:18:INFO:install_and_monitor:sighuphandler() Install thread stopped.
+Apr 30 21:40:18:INFO:install_and_monitor:sighuphandler() Restarting install thread.
+Apr 30 21:40:18:INFO:install_and_monitor:run() thread: 4290770072 <-> id: '3' <-> *thread:4* spawned
+Apr 30 21:40:18:INFO:install_and_monitor:ping_threads() Install thread: '4' spawned!
+Apr 30 21:40:18:INFO:install_and_monitor:block_and_wait() the thread with id '1' finished blocking
+Apr 30 21:40:18:INFO:install_and_monitor:install() tuple_inc -> 1
+Apr 30 21:40:18:INFO:install_and_monitor:wait() BEGIN
+Apr 30 21:40:18:INFO:install_and_monitor:install() Increment time is non-negative. Installing in 1 secs
+
+Apr 30 21:40:19:INFO:At time 13:no elements are active
+Apr 30 21:40:19:INFO:install_and_monitor:install() Installed block --> [0](x, y, is_valid): 40.00, 20.00, 1
+
+Apr 30 21:40:19:INFO:install_and_monitor:install() tuple_inc -> 0
+Apr 30 21:40:19:INFO:install_and_monitor:install() Increment time is non-negative. Installing in 0 secs
+
+Apr 30 21:40:19:INFO:install_and_monitor:install() Installed block --> [1](x, y, is_valid): 30.00, 26.00, 1
+
+Apr 30 21:40:19:INFO:install_and_monitor:install() tuple_inc -> 3
+Apr 30 21:40:19:INFO:install_and_monitor:install() Increment time is non-negative. Installing in 3 secs
+
+Apr 30 21:40:20:INFO:install_and_monitor:monitor_global_mem() At time 14:2 elements are active:x = 35.00 and y = 23.00
+Apr 30 21:40:21:INFO:install_and_monitor:monitor_global_mem() At time 15:2 elements are active:x = 35.00 and y = 23.00
+Apr 30 21:40:22:INFO:install_and_monitor:monitor_global_mem() At time 16:2 elements are active:x = 35.00 and y = 23.00
+Apr 30 21:40:22:INFO:install_and_monitor:install() Installed block --> [3](x, y, is_valid): 15.40, 0.00, 1
+
+Apr 30 21:40:22:INFO:install_and_monitor:install() tuple_inc -> 2
+Apr 30 21:40:22:INFO:install_and_monitor:install() Increment time is non-negative. Installing in 2 secs
+
+Apr 30 21:40:23:INFO:install_and_monitor:monitor_global_mem() At time 17:3 elements are active:x = 28.47 and y = 15.33
+Apr 30 21:40:24:INFO:install_and_monitor:monitor_global_mem() At time 18:3 elements are active:x = 28.47 and y = 15.33
+Apr 30 21:40:24:INFO:install_and_monitor:install() Installed block --> [2](x, y, is_valid): 0.00, 4.00, 1
+
+Apr 30 21:40:24:INFO:install_and_monitor:install() tuple_inc -> -1
+Apr 30 21:40:24:INFO:install_and_monitor:install() Increment time is negative (invalid). Sleeping for 1 secs
+
+Apr 30 21:40:25:INFO:install_and_monitor:monitor_global_mem() At time 19:4 elements are active:x = 21.35 and y = 12.50
+Apr 30 21:40:25:INFO:install_and_monitor:install() Did not install block (invalid). Set is_valid to 0 at [1]
+
+Apr 30 21:40:25:INFO:install_and_monitor:install() tuple_inc -> -1
+Apr 30 21:40:25:INFO:install_and_monitor:install() Increment time is negative (invalid). Sleeping for 1 secs
+
+Apr 30 21:40:26:INFO:install_and_monitor:monitor_global_mem() At time 20:3 elements are active:x = 18.47 and y = 8.00
+Apr 30 21:40:26:INFO:install_and_monitor:install() Did not install block (invalid). Set is_valid to 0 at [3]
+
+Apr 30 21:40:26:INFO:install_and_monitor:install() tuple_inc -> -1
+Apr 30 21:40:26:INFO:install_and_monitor:install() Increment time is negative (invalid). Sleeping for 1 secs
+
+Apr 30 21:40:27:INFO:install_and_monitor:monitor_global_mem() At time 21:2 elements are active:x = 20.00 and y = 12.00
+Apr 30 21:40:27:INFO:install_and_monitor:install() Did not install block (invalid). Set is_valid to 0 at [2]
+
+Apr 30 21:40:27:INFO:install_and_monitor:install() tuple_inc -> -1
+Apr 30 21:40:27:INFO:install_and_monitor:install() Increment time is negative (invalid). Sleeping for 1 secs
+
+Apr 30 21:40:28:INFO:install_and_monitor:monitor_global_mem() At time 22:1 elements are active:x = 40.00 and y = 20.00
+Apr 30 21:40:28:INFO:install_and_monitor:install() Did not install block (invalid). Set is_valid to 0 at [0]
+
+Apr 30 21:40:28:INFO:install_and_monitor:install() tuple_inc -> 2
+Apr 30 21:40:28:INFO:install_and_monitor:install() Increment time is non-negative. Installing in 2 secs
+
+Apr 30 21:40:29:INFO:At time 23:no elements are active
+Apr 30 21:40:30:INFO:At time 24:no elements are active
+Apr 30 21:40:30:INFO:install_and_monitor:install() Installed block --> [19](x, y, is_valid): 99.00, -10.00, 1
+
+Apr 30 21:40:30:INFO:install_and_monitor:install() tuple_inc -> 1
+Apr 30 21:40:30:INFO:install_and_monitor:install() Increment time is non-negative. Installing in 1 secs
+
+Apr 30 21:40:31:INFO:install_and_monitor:monitor_global_mem() At time 25:1 elements are active:x = 99.00 and y = -10.00
+Apr 30 21:40:31:INFO:install_and_monitor:install() Installed block --> [18](x, y, is_valid): -15.00, -2.50, 1
+
+Apr 30 21:40:31:INFO:install_and_monitor:install() tuple_inc -> 2
+Apr 30 21:40:31:INFO:install_and_monitor:install() Increment time is non-negative. Installing in 2 secs
+
+Apr 30 21:40:32:INFO:install_and_monitor:monitor_global_mem() At time 26:2 elements are active:x = 42.00 and y = -6.25
+Apr 30 21:40:33:INFO:install_and_monitor:monitor_global_mem() At time 27:2 elements are active:x = 42.00 and y = -6.25
+Apr 30 21:40:33:INFO:install_and_monitor:install() Installed block --> [2](x, y, is_valid): 0.00, 4.00, 1
+
+Apr 30 21:40:33:INFO:install_and_monitor:install() tuple_inc -> 1
+Apr 30 21:40:33:INFO:install_and_monitor:install() Increment time is non-negative. Installing in 1 secs
+
+Apr 30 21:40:34:INFO:install_and_monitor:monitor_global_mem() At time 28:3 elements are active:x = 28.00 and y = -2.83
+Apr 30 21:40:34:INFO:install_and_monitor:install() Installed block --> [0](x, y, is_valid): 40.00, 20.00, 1
+
+Apr 30 21:40:34:INFO:install_and_monitor:install() tuple_inc -> 0
+Apr 30 21:40:34:INFO:install_and_monitor:install() Increment time is non-negative. Installing in 0 secs
+
+Apr 30 21:40:34:INFO:install_and_monitor:install() Installed block --> [1](x, y, is_valid): 30.00, 26.00, 1
+
+Apr 30 21:40:34:INFO:install_and_monitor:install() tuple_inc -> 3
+Apr 30 21:40:34:INFO:install_and_monitor:install() Increment time is non-negative. Installing in 3 secs
+
+Apr 30 21:40:35:INFO:install_and_monitor:monitor_global_mem() At time 29:5 elements are active:x = 30.80 and y = 7.50
+Apr 30 21:40:36:INFO:install_and_monitor:monitor_global_mem() At time 30:5 elements are active:x = 30.80 and y = 7.50
+Apr 30 21:40:36:INFO:install_and_monitor:sigtermhandle() Caught SIGTERM - Stop install thread, clear memory, and exit:
+Apr 30 21:40:36:INFO:install_and_monitor:sigtermhandler() Install thread stopped.
+Apr 30 21:40:36:INFO:install_and_monitor:sigtermhandler() Exit program.

@@ -1,0 +1,59 @@
+probe.o: probe.c /usr/include/sys/time.h /usr/include/sys/feature_tests.h \
+ /usr/include/sys/ccompile.h /usr/include/sys/isa_defs.h \
+ /usr/include/sys/types.h /usr/include/sys/machtypes.h \
+ /usr/include/sys/int_types.h /usr/include/sys/select.h \
+ /usr/include/sys/time_impl.h /usr/include/time.h \
+ /usr/include/iso/time_iso.h /usr/include/sys/resource.h \
+ /usr/include/sys/socket.h /usr/include/sys/uio.h \
+ /usr/include/sys/socket_impl.h /usr/include/sys/un.h \
+ /usr/include/net/if_dl.h /usr/include/sys/netconfig.h \
+ /usr/include/netinet/in.h /usr/include/sys/stream.h \
+ /usr/include/sys/poll.h /usr/include/sys/strmdep.h \
+ /usr/include/sys/cred.h /usr/include/sys/t_lock.h \
+ /usr/include/sys/machlock.h /usr/include/sys/param.h \
+ /usr/include/sys/unistd.h /usr/include/sys/mutex.h \
+ /usr/include/sys/rwlock.h /usr/include/sys/semaphore.h \
+ /usr/include/sys/condvar.h /usr/include/sys/model.h \
+ /usr/include/sys/byteorder.h /usr/include/sys/sock_flow_sla.h \
+ /usr/include/sys/wait.h /usr/include/sys/siginfo.h \
+ /usr/include/sys/machsig.h /usr/include/sys/procset.h \
+ /usr/include/sys/signal.h /usr/include/sys/iso/signal_iso.h \
+ /usr/include/signal.h /usr/include/iso/signal_iso.h /usr/include/errno.h \
+ /usr/include/sys/errno.h /usr/include/netdb.h /usr/include/paths.h \
+ /usr/include/sys/paths.h /usr/include/fcntl.h /usr/include/sys/fcntl.h \
+ /usr/include/setjmp.h /usr/include/iso/setjmp_iso.h /usr/include/stdio.h \
+ /usr/include/iso/stdio_iso.h /usr/include/sys/va_list.h \
+ /usr/include/stdio_tag.h /usr/include/stdio_impl.h \
+ /usr/include/iso/stdio_c99.h /usr/include/ctype.h \
+ /usr/include/iso/ctype_iso.h /usr/include/iso/ctype_c99.h \
+ ../../../include/probe.h ../../../include/messages.h
+explore.o: explore.c /usr/include/sys/types.h \
+ /usr/include/sys/feature_tests.h /usr/include/sys/ccompile.h \
+ /usr/include/sys/isa_defs.h /usr/include/sys/machtypes.h \
+ /usr/include/sys/int_types.h /usr/include/sys/select.h \
+ /usr/include/sys/time_impl.h /usr/include/sys/time.h /usr/include/time.h \
+ /usr/include/iso/time_iso.h /usr/include/stdio.h \
+ /usr/include/iso/stdio_iso.h /usr/include/sys/va_list.h \
+ /usr/include/stdio_tag.h /usr/include/stdio_impl.h \
+ /usr/include/iso/stdio_c99.h /usr/include/errno.h \
+ /usr/include/sys/errno.h /usr/include/signal.h \
+ /usr/include/iso/signal_iso.h /usr/include/sys/iso/signal_iso.h \
+ /usr/include/sys/unistd.h /usr/include/sys/signal.h \
+ /usr/include/sys/siginfo.h /usr/include/sys/machsig.h \
+ /usr/include/sys/procset.h ../../../include/probe.h \
+ ../../../include/messages.h
+maze.o: maze.c /usr/include/sys/types.h /usr/include/sys/feature_tests.h \
+ /usr/include/sys/ccompile.h /usr/include/sys/isa_defs.h \
+ /usr/include/sys/machtypes.h /usr/include/sys/int_types.h \
+ /usr/include/sys/select.h /usr/include/sys/time_impl.h \
+ /usr/include/sys/time.h /usr/include/time.h /usr/include/iso/time_iso.h \
+ /usr/include/stdio.h /usr/include/iso/stdio_iso.h \
+ /usr/include/sys/va_list.h /usr/include/stdio_tag.h \
+ /usr/include/stdio_impl.h /usr/include/iso/stdio_c99.h \
+ ../../../include/messages.h ../../../include/probe.h
+sleepms_select.o: sleepms_select.c /usr/include/sys/types.h \
+ /usr/include/sys/feature_tests.h /usr/include/sys/ccompile.h \
+ /usr/include/sys/isa_defs.h /usr/include/sys/machtypes.h \
+ /usr/include/sys/int_types.h /usr/include/sys/select.h \
+ /usr/include/sys/time_impl.h /usr/include/sys/time.h /usr/include/time.h \
+ /usr/include/iso/time_iso.h
